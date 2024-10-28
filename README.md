@@ -26,6 +26,7 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+<deploy-this-repo-nguyen-jimmy-t.vercel.app
+>
 
 
